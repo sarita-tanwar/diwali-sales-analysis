@@ -54,9 +54,7 @@ The analysis can help businesses understand customer preferences, identify valua
 - `Diwali Sales Data.csv` – Dataset used for the analysis (if permitted to share).
 - 
 ## Dashboard Image
-<img width="1274" height="547" alt="Diwali Sale Dashboard png" src="[https://github.com/user-attachments/assets/247862c7-76d2-4d08-b351-f6cb19938097](https://github.com/sarita-tanwar/diwali-sales-analysis/blob/main/Diwali%20Sale%20Dashboard.png)" />
-<img width="929" height="526" alt="Diwali Sale Dashboard" src="https://github.com/user-attachments/assets/ee05885c-47f6-4088-ba58-3e4c651cb0c1" />
-
+<img width="929" height="526" alt="Diwali Sale Dashboard" src="https://github.com/user-attachments/assets/652a037e-54d2-4776-a23c-4a1c5a67388d" />
 
 ## 👩‍💻 Author
 
