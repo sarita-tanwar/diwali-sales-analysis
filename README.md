@@ -52,8 +52,9 @@ The analysis can help businesses understand customer preferences, identify valua
 
 - `Diwali_Sales_Analysis.ipynb` – Jupyter Notebook containing data cleaning, analysis, and visualizations.
 - `Diwali Sales Data.csv` – Dataset used for the analysis (if permitted to share).
-  
-- Dashboard Interaction <a href="https://github.com/sarita-tanwar/diwali-sales-analysis/blob/main/Diwali%20Sale%20Dashboard.png>view dashboard</a>
+- 
+## Dashboard Image
+<img width="1274" height="547" alt="Dashboard png" src="[https://github.com/user-attachments/assets/247862c7-76d2-4d08-b351-f6cb19938097](https://github.com/sarita-tanwar/diwali-sales-analysis/blob/main/Diwali%20Sale%20Dashboard.png)" />
 
 ## 👩‍💻 Author
 
