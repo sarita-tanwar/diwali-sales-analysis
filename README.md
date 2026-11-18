@@ -9,7 +9,7 @@ The main objective is to explore the dataset, clean and prepare the data, and ge
 Using Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn, I performed data analysis and visualization to understand customer behavior based on gender, age group, occupation, marital status, state, and product category.
 
 ## Dataset Used
-
+- <a href="https://github.com/sarita-tanwar/diwali-sales-analysis/blob/main/Diwali%20Sales%20Data.csv">Dataset</a>
 
 ## 🎯 Project Objectives
 
