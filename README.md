@@ -7,6 +7,12 @@ This project focuses on analyzing Diwali sales data using Python to identify cus
 The main objective is to explore the dataset, clean and prepare the data, and generate meaningful business insights through Exploratory Data Analysis (EDA).
 
 Using Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn, I performed data analysis and visualization to understand customer behavior based on gender, age group, occupation, marital status, state, and product category.
+<img width="846" height="646" alt="Gender Count" src="https://github.com/user-attachments/assets/d0e472a7-fd35-4dcd-a21a-33e9a2319666" />
+<img width="808" height="647" alt="Age Group" src="https://github.com/user-attachments/assets/9e5f68d3-dd0c-4a14-8a6f-c0804695a520" />
+<img width="1291" height="566" alt="Occupation Wise Count" src="https://github.com/user-attachments/assets/660b39ae-2ab1-4806-b537-8780a32139da" />
+<img width="1283" height="525" alt="Product Category by Amount" src="https://github.com/user-attachments/assets/f4577e44-4b52-49b2-b6d4-bc4564ea18cf" />
+<img width="1275" height="592" alt="State Wise Order Detail" src="https://github.com/user-attachments/assets/3c59feae-d557-4ac0-9752-efe5f47938a8" />
+
 
 ## Dataset Used
 - <a href="https://github.com/saritasiwal9540-lang/diwali-sales-analysis/blob/main/Diwali%20Sales%20Data.csv">Dataset</a>
