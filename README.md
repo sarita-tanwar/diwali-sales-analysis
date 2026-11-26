@@ -86,4 +86,4 @@ Overall, this project enhanced my practical understanding of the data analytics 
 ## 👩‍💻 Author
 
 **Sarita Tanwar** | Data Analyst | Python | SQL | Excel | Power BI
-[LinkedIn](https://www.linkedin.com/in/your-id) | [GitHub](https://github.com/sarita-tanwar)
+[LinkedIn](https://www.linkedin.com/in/saritatanwar) | [GitHub](https://github.com/sarita-tanwar)
