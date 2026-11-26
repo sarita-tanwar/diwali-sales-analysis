@@ -59,7 +59,7 @@ The analysis can help businesses understand customer preferences, identify valua
 
 ## 📁 Project Files
 
-- `Diwali_Sales_Analysis.ipynb` – Jupyter Notebook containing data cleaning, analysis, and visualizations.
+- `Diwali_Sales_Analysis-1.ipynb` – Jupyter Notebook containing data cleaning, analysis, and visualizations.
 - `Diwali Sales Data.csv` – Dataset used for the analysis.
 - 
 ## Dashboard Image
@@ -85,6 +85,5 @@ Overall, this project enhanced my practical understanding of the data analytics 
 
 ## 👩‍💻 Author
 
-**Sarita Tanwar**
-
-Aspiring Data Analyst | Python | SQL | Excel | Power BI
+**Sarita Tanwar** | Data Analyst | Python | SQL | Excel | Power BI
+[LinkedIn](https://www.linkedin.com/in/your-id) | [GitHub](https://github.com/sarita-tanwar)
