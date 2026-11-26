@@ -15,7 +15,7 @@ Using Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn, I perform
 
 
 ## Dataset Used
-- <a href="https://github.com/saritasiwal9540-lang/diwali-sales-analysis/blob/main/Diwali%20Sales%20Data.csv">Dataset</a>
+- <a href="https://github.com/saritasiwal9540/diwali-sales-analysis/blob/main/Diwali%20Sales%20Data.csv">Dataset</a>
 
 ## 🎯 Project Objectives
 
@@ -60,7 +60,7 @@ The analysis can help businesses understand customer preferences, identify valua
 ## 📁 Project Files
 
 - `Diwali_Sales_Analysis.ipynb` – Jupyter Notebook containing data cleaning, analysis, and visualizations.
-- `Diwali Sales Data.csv` – Dataset used for the analysis (if permitted to share).
+- `Diwali Sales Data.csv` – Dataset used for the analysis.
 - 
 ## Dashboard Image
 <img width="929" height="526" alt="Diwali Sale Dashboard" src="https://github.com/user-attachments/assets/652a037e-54d2-4776-a23c-4a1c5a67388d" />
